@@ -92,10 +92,6 @@ E-Commerce   Shopify
 
 ## 📊 GitHub Stats
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
-
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/rohityadav0412?utm_source=share_via&utm_content=profile&utm_medium=member_android
